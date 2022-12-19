@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @craigouma
-- 👀 I’m interested in learning how to code in different languages.
-- 🌱 I’m currently learning Computer Science.
+- 👀 I’m interested in coding different softwares and applications.
+- 🌱 I’m a Software Engineer.
 - 💞️ I’m looking to collaborate on major projects.
 - 📫 How to reach me on email: craigcarlos95@gmail.com
 
