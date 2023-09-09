@@ -1,12 +1,12 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+Human+...)](https://git.io/typing-svg)
 
-
-Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 My name is Craig Carlos
 ====================================================================================================================================
 
 Full-Stack Web Developer | Software Engineer | Graphic Designer
 -----------------
-
+![](https://komarev.com/ghpvc/?username=craigouma&style=for-the-badge)
 * 🌍  I'm based in Nairobi, Kenya.
 * ✉️  You can contact me at [craigcarlos95@gmail.com](mailto:craigcarlos95@gmail.com)
 * 🧠  I'm learning Flutter currently.
@@ -43,7 +43,11 @@ Full-Stack Web Developer | Software Engineer | Graphic Designer
 <a href="https://github.com/craigouma">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=craigouma&show_icons=true&theme=transparent" alt="Craig's GitHub stats" />
 </a>
+  <br>
+<br>
+<br>
   
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=craigouma&theme=transparent" alt="craigouma" />
 
 <b>Top Languages</b>
 
