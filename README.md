@@ -8,7 +8,6 @@ Full-Stack Web Developer | Software Engineer | Graphic Designer
 -----------------
 ![](https://komarev.com/ghpvc/?username=craigouma&style=for-the-badge)
 
-* 🌍  I'm based in Nairobi, Kenya.
 * ✉️  You can contact me at [craigcarlos95@gmail.com](mailto:craigcarlos95@gmail.com)
 * 🧠  I'm learning Flutter currently.
 * 🤝  I'm open to collaborating on open source projects.
