@@ -59,3 +59,7 @@ Full-Stack Web Developer | Software Engineer | Graphic Designer
 ### Contribution graph
 
 ![snake gif](https://github.com/ElNgatia/ElNgatia/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
+
+### Badges
+
+[![An image of @craigouma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/craigouma)](https://holopin.io/@craigouma)
