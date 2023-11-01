@@ -4,7 +4,7 @@
 My name is Craig Carlos
 ====================================================================================================================================
 
-Full-Stack Web Developer | Software Engineer | Graphic Designer
+Full-Stack Developer | Graphic Designer
 -----------------
 ![](https://komarev.com/ghpvc/?username=craigouma&style=for-the-badge)
 
