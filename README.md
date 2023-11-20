@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+Human+...)](https://git.io/typing-svg)
 
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-My name is Craig Carlos
+My name is Craig Ouma
 ====================================================================================================================================
 
 Full-Stack Developer | Graphic Designer
@@ -11,7 +11,7 @@ Full-Stack Developer | Graphic Designer
 * ✉️  You can contact me at [craigcarlos95@gmail.com](mailto:craigcarlos95@gmail.com)
 * 🧠  Kotlin is calling me by my full name!
 * 🤝  I'm open to collaborating on open source projects.
-
+* 🧠  I can work with WordPress!
 
 [![wakatime](https://wakatime.com/badge/user/e0e18e64-2882-4a3a-acf1-8600d256b235.svg)](https://wakatime.com/@e0e18e64-2882-4a3a-acf1-8600d256b235)
 
