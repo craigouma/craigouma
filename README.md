@@ -9,7 +9,7 @@ Full-Stack Developer | Graphic Designer
 ![](https://komarev.com/ghpvc/?username=craigouma&style=for-the-badge)
 
 * ✉️  You can contact me at [craigcarlos95@gmail.com](mailto:craigcarlos95@gmail.com)
-* 🧠  Kotlin is calling me by my full name!
+* 🧠  Android Jetpack Compose is calling me by my full name!
 * 🤝  I'm open to collaborating on open source projects.
 * 🧠  I can work with WordPress!
 
