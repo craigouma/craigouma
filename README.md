@@ -36,10 +36,6 @@ Developer
 
 [![Top Langs](https://github-readme-stats-blindbanditbmc.vercel.app/api/top-langs/?username=craigouma&layout=compact&show_icons=true&theme=transparent&langs_count=6)](https://github.com/craigouma/github-readme-stats)
 
-### Contribution graph
-
-![snake gif](https://github.com/ElNgatia/ElNgatia/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
-
 ### Open Source Badges
 
 [![An image of @craigouma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/craigouma)](https://holopin.io/@craigouma)
